@@ -233,7 +233,7 @@ version = "1.3.13+1"
 
 [[Gtk]]
 deps = ["Cairo", "Cairo_jll", "Dates", "GTK3_jll", "Glib_jll", "Graphics", "Libdl", "Pkg", "Reexport", "Serialization", "Test", "adwaita_icon_theme_jll", "gdk_pixbuf_jll", "hicolor_icon_theme_jll"]
-git-tree-sha1 = "5a2666f77d61be0f0d122463f7e55f51057dd0ba"
+git-tree-sha1 = "90c4d5629c16cc84f250269cc76430d4cfb0a761"
 repo-rev = "sf/jll_packages"
 repo-url = "https://github.com/staticfloat/Gtk.jl"
 uuid = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
